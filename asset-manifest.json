@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/candy/static/css/main.76598800.chunk.css",
-    "main.js": "/candy/static/js/main.56a4be8a.chunk.js",
-    "main.js.map": "/candy/static/js/main.56a4be8a.chunk.js.map",
+    "main.js": "/candy/static/js/main.d57aa982.chunk.js",
+    "main.js.map": "/candy/static/js/main.d57aa982.chunk.js.map",
     "runtime-main.js": "/candy/static/js/runtime-main.e0e4cf9a.js",
     "runtime-main.js.map": "/candy/static/js/runtime-main.e0e4cf9a.js.map",
-    "static/js/2.0ddb669c.chunk.js": "/candy/static/js/2.0ddb669c.chunk.js",
-    "static/js/2.0ddb669c.chunk.js.map": "/candy/static/js/2.0ddb669c.chunk.js.map",
+    "static/js/2.df341f31.chunk.js": "/candy/static/js/2.df341f31.chunk.js",
+    "static/js/2.df341f31.chunk.js.map": "/candy/static/js/2.df341f31.chunk.js.map",
     "static/js/3.acdd0125.chunk.js": "/candy/static/js/3.acdd0125.chunk.js",
     "static/js/3.acdd0125.chunk.js.map": "/candy/static/js/3.acdd0125.chunk.js.map",
     "index.html": "/candy/index.html",
     "static/css/main.76598800.chunk.css.map": "/candy/static/css/main.76598800.chunk.css.map",
-    "static/js/2.0ddb669c.chunk.js.LICENSE.txt": "/candy/static/js/2.0ddb669c.chunk.js.LICENSE.txt"
+    "static/js/2.df341f31.chunk.js.LICENSE.txt": "/candy/static/js/2.df341f31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e0e4cf9a.js",
-    "static/js/2.0ddb669c.chunk.js",
+    "static/js/2.df341f31.chunk.js",
     "static/css/main.76598800.chunk.css",
-    "static/js/main.56a4be8a.chunk.js"
+    "static/js/main.d57aa982.chunk.js"
   ]
 }
